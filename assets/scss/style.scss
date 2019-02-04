@@ -85,6 +85,8 @@ header{
         height: 50px;
         width: 50px;
         border-radius:100px;
+        transition-property: opacity;
+        transition-duration: 1s;
     }
     img{
         position: relative;
